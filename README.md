@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gemadp01
+- 👋 Hi, I’m Gema Dodi Pranata
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning about Web Development
 - 💞️ I’m looking to collaborate on ...
