@@ -9,10 +9,10 @@
 
 <h3 align="left" class="heading-element" dir="auto">Connect with me:</h3>
 <div id="badges">
-  <a href="javascript:void(0);" onclick="window.open('https://www.linkedin.com/in/gemadp/')" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/gemadp/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="javascript:void(0);" onclick="window.open('https://www.instagram.com/gemadp01/')" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/gemadp01/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
