@@ -29,9 +29,10 @@
   </summary>
   
   <p dir="auto">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=gemadp01&show_icons=true&theme=tokyonight">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=gemadp01&show_icons=true" alt="gemadp" />
+<!--     <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=gemadp01&show_icons=true&theme=tokyonight">
       <img src="https://github-readme-stats.vercel.app/api?username=gemadp01&show_icons=true&theme=tokyonight" alt="gemadp01" style="max-width: 100%;">
-    </a>
+    </a> -->
   </p>
 </details>
 <!---
